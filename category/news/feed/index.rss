@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>News &#8211; Crypytoland</title>
+	<atom:link href="http://www.demo-ninetheme.com/cryptoland/category/news/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.demo-ninetheme.com/cryptoland</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 03 Dec 2018 12:17:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>http://www.demo-ninetheme.com/cryptoland/wp-content/uploads/2018/10/cropped-graphic-32x32.png</url>
+	<title>News &#8211; Crypytoland</title>
+	<link>http://www.demo-ninetheme.com/cryptoland</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Crypto project has reached seven billions</title>
+		<link>http://www.demo-ninetheme.com/cryptoland/2018/10/05/the-crypto-project-has-reached-seven-billions/</link>
+		<comments>http://www.demo-ninetheme.com/cryptoland/2018/10/05/the-crypto-project-has-reached-seven-billions/#comments</comments>
+		<pubDate>Fri, 05 Oct 2018 21:10:35 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">http://www.demo-ninetheme.com/cryptoland/?p=188</guid>
+		<description><![CDATA[Specially for our VIP customers the LH Crypto team representatives Alexander Smirnov and Antonis Lapos will conduct a number of personal meetings. The meetings will take place in the following cities: 15 January – Milan, 16 January – Lugano, 17 January – Zurich, 18 January – Geneva, 19 January – Monaco. If you’re an investor…]]></description>
+				<content:encoded><![CDATA[<h2>Cos’è Lorem Ipsum?</h2>
+<p><strong>Lorem Ipsum</strong><span> </span>è un testo segnaposto utilizzato nel settore della tipografia e della stampa. Lorem Ipsum è considerato il testo segnaposto standard sin dal sedicesimo secolo, quando un anonimo tipografo prese una cassetta di caratteri e li assemblò per preparare un testo campione. È sopravvissuto non solo a più di cinque secoli, ma anche al passaggio alla videoimpaginazione, pervenendoci sostanzialmente inalterato. Fu reso popolare, negli anni ’60, con la diffusione dei fogli di caratteri trasferibili “Letraset”, che contenevano passaggi del Lorem Ipsum, e più recentemente da software di impaginazione come Aldus PageMaker, che includeva versioni del Lorem Ipsum.</p>
+<h2>Perchè lo utilizziamo?</h2>
+<p>È universalmente riconosciuto che un lettore che osserva il layout di una pagina viene distratto dal contenuto testuale se questo è leggibile. Lo scopo dell’utilizzo del Lorem Ipsum è che offre una normale distribuzione delle lettere (al contrario di quanto avviene se si utilizzano brevi frasi ripetute, ad esempio “testo qui”), apparendo come un normale blocco di testo leggibile. Molti software di impaginazione e di web design utilizzano Lorem Ipsum come testo modello. Molte versioni del testo sono state prodotte negli anni, a volte casualmente, a volte di proposito (ad esempio inserendo passaggi ironici).</p>
+<h2>Da dove viene?</h2>
+<p>Al contrario di quanto si pensi, Lorem Ipsum non è semplicemente una sequenza casuale di caratteri. Risale ad un classico della letteratura latina del 45 AC, cosa che lo rende vecchio di 2000 anni. Richard McClintock, professore di latino al Hampden-Sydney College in Virginia, ha ricercato una delle più oscure parole latine, consectetur, da un passaggio del Lorem Ipsum e ha scoperto tra i vari testi in cui è citata, la fonte da cui è tratto il testo, le sezioni 1.10.32 and 1.10.33 del &#8220;de Finibus Bonorum et Malorum&#8221; di Cicerone. Questo testo è un trattato su teorie di etica, molto popolare nel Rinascimento. La prima riga del Lorem Ipsum, &#8220;Lorem ipsum dolor sit amet..&#8221;, è tratta da un passaggio della sezione 1.10.32.</p>
+<p>Il brano standard del Lorem Ipsum usato sin dal sedicesimo secolo è riprodotto qui di seguito per coloro che fossero interessati. Anche le sezioni 1.10.32 e 1.10.33 del &#8220;de Finibus Bonorum et Malorum&#8221; di Cicerone sono riprodotte nella loro forma originale, accompagnate dalla traduzione inglese del 1914 di H. Rackham.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.demo-ninetheme.com/cryptoland/2018/10/05/the-crypto-project-has-reached-seven-billions/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 21/22 objects using disk
+Page Caching using disk: enhanced 
+Minified using disk
+Database Caching using disk
+
+Served from: www.demo-ninetheme.com @ 2018-12-04 09:12:32 by W3 Total Cache
+-->
